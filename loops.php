@@ -43,5 +43,6 @@ foreach ($person as $key => $value) {
         break;
     }
     echo $key . ' ' . $value . '<br>';
+}
 
 ?>
