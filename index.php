@@ -63,4 +63,18 @@ echo '<br>';
 echo SORT_ASC.'<br>';
 echo PHP_INT_MAX.'<br>';
 
+
+
+// Declaring numbers
+$a = 5;
+$b = 4;
+$c = 1.2;
+
+// Arithmetic operations
+echo ($a + $b) * $c . '<br>';
+echo $a - $b . '<br>';
+echo $a * $b . '<br>'; 
+echo $a / $b . '<br>';
+echo $a % $b . '<br>';
+
 ?>
