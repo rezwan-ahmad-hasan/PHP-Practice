@@ -59,4 +59,8 @@ var_dump(isset($name));
 var_dump(isset($name2));
 echo '<br>';
 
+// Using PHP built-in constants
+echo SORT_ASC.'<br>';
+echo PHP_INT_MAX.'<br>';
+
 ?>
